@@ -26,14 +26,15 @@ Este proyecto automatiza el procesamiento de correos electrónicos con facturas 
 - IA Builder de Microsoft Power Platform
 
 ## 🎯 Objetivo
-<img width="1296" height="725" alt="Screenshot 2025-07-18 150755" src="https://github.com/user-attachments/assets/eb8066a4-10af-4f29-a138-4f9991c9ec4e" />
-<img width="475" height="665" alt="Screenshot 2025-07-18 150643" src="https://github.com/user-attachments/assets/43224e12-d97b-465c-981f-d2fe2a76deb0" />
+
+
 
 Reducir el tiempo de control de facturas recibidas por correo y tener una visión clara de su impacto financiero.
 
 ## 📷 Capturas
 
-![Flujo Power Automate](<img width="475" height="665" alt="Screenshot 2025-07-18 150643" src="https://github.com/user-attachments/assets/c44e1adf-82e1-49aa-a991-98fbc26f3b64" />
-)
-![Power BI](<img width="1296" height="725" alt="Screenshot 2025-07-18 150755" src="https://github.com/user-attachments/assets/5d42513c-c60e-42c7-84d2-22b29a4a821b" />
-)
+<img width="650" height="400" alt="Screenshot 2025-07-18 151500" src="https://github.com/user-attachments/assets/77deb492-6f81-44b3-8e1d-6e3640bf78f1" />
+<img width="650" height="600" alt="Screenshot 2025-07-18 151514" src="https://github.com/user-attachments/assets/9f5a4d17-8a47-4424-bfde-588a98e0083d" />
+
+<img width="800" height="400" alt="Screenshot 2025-07-18 150755" src="https://github.com/user-attachments/assets/eb8066a4-10af-4f29-a138-4f9991c9ec4e" />
+
