@@ -26,6 +26,8 @@ Este proyecto automatiza el procesamiento de correos electrónicos con facturas 
 - IA Builder de Microsoft Power Platform
 
 ## 🎯 Objetivo
+<img width="1296" height="725" alt="Screenshot 2025-07-18 150755" src="https://github.com/user-attachments/assets/eb8066a4-10af-4f29-a138-4f9991c9ec4e" />
+<img width="475" height="665" alt="Screenshot 2025-07-18 150643" src="https://github.com/user-attachments/assets/43224e12-d97b-465c-981f-d2fe2a76deb0" />
 
 Reducir el tiempo de control de facturas recibidas por correo y tener una visión clara de su impacto financiero.
 
